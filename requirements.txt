@@ -1,6 +1,7 @@
 flask
 requests
 playwright
+playwright-stealth
 beautifulsoup4
 pdfplumber
 pandas
