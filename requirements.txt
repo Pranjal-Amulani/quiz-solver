@@ -6,3 +6,4 @@ pdfplumber
 pandas
 pillow
 pytesseract
+gunicorn
