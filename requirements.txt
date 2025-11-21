@@ -1,6 +1,8 @@
-Flask
+flask
 requests
 playwright
+beautifulsoup4
 pdfplumber
 pandas
-beautifulsoup4
+pillow
+pytesseract
